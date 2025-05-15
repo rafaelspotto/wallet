@@ -1,8 +1,3 @@
-# Technology: 
-
-The project should be implemented in Java.
-Use spring boot for api, use docker.
-
 # Wallet Service
 
 A robust and secure microservice for managing digital wallets and financial transactions.
